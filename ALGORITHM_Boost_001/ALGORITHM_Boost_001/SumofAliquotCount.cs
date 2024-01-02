@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class Solution
+public class SumofAliquotCount
 {
     public int solution(int left, int right)
     {
