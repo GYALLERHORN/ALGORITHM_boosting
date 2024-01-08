@@ -1,0 +1,15 @@
+E:\Careerth_boost\Github\ALGORITHM_boosting\ALGORITHM_Boost_001\ALGORITHM_Boost_001\obj\Debug\net6.0\ALGORITHM_Boost_001.csproj.AssemblyReference.cache
+E:\Careerth_boost\Github\ALGORITHM_boosting\ALGORITHM_Boost_001\ALGORITHM_Boost_001\obj\Debug\net6.0\ALGORITHM_Boost_001.GeneratedMSBuildEditorConfig.editorconfig
+E:\Careerth_boost\Github\ALGORITHM_boosting\ALGORITHM_Boost_001\ALGORITHM_Boost_001\obj\Debug\net6.0\ALGORITHM_Boost_001.AssemblyInfoInputs.cache
+E:\Careerth_boost\Github\ALGORITHM_boosting\ALGORITHM_Boost_001\ALGORITHM_Boost_001\obj\Debug\net6.0\ALGORITHM_Boost_001.AssemblyInfo.cs
+E:\Careerth_boost\Github\ALGORITHM_boosting\ALGORITHM_Boost_001\ALGORITHM_Boost_001\obj\Debug\net6.0\ALGORITHM_Boost_001.csproj.CoreCompileInputs.cache
+E:\Careerth_boost\Github\ALGORITHM_boosting\ALGORITHM_Boost_001\ALGORITHM_Boost_001\bin\Debug\net6.0\ALGORITHM_Boost_001.exe
+E:\Careerth_boost\Github\ALGORITHM_boosting\ALGORITHM_Boost_001\ALGORITHM_Boost_001\bin\Debug\net6.0\ALGORITHM_Boost_001.deps.json
+E:\Careerth_boost\Github\ALGORITHM_boosting\ALGORITHM_Boost_001\ALGORITHM_Boost_001\bin\Debug\net6.0\ALGORITHM_Boost_001.runtimeconfig.json
+E:\Careerth_boost\Github\ALGORITHM_boosting\ALGORITHM_Boost_001\ALGORITHM_Boost_001\bin\Debug\net6.0\ALGORITHM_Boost_001.dll
+E:\Careerth_boost\Github\ALGORITHM_boosting\ALGORITHM_Boost_001\ALGORITHM_Boost_001\bin\Debug\net6.0\ALGORITHM_Boost_001.pdb
+E:\Careerth_boost\Github\ALGORITHM_boosting\ALGORITHM_Boost_001\ALGORITHM_Boost_001\obj\Debug\net6.0\ALGORITHM_Boost_001.dll
+E:\Careerth_boost\Github\ALGORITHM_boosting\ALGORITHM_Boost_001\ALGORITHM_Boost_001\obj\Debug\net6.0\refint\ALGORITHM_Boost_001.dll
+E:\Careerth_boost\Github\ALGORITHM_boosting\ALGORITHM_Boost_001\ALGORITHM_Boost_001\obj\Debug\net6.0\ALGORITHM_Boost_001.pdb
+E:\Careerth_boost\Github\ALGORITHM_boosting\ALGORITHM_Boost_001\ALGORITHM_Boost_001\obj\Debug\net6.0\ALGORITHM_Boost_001.genruntimeconfig.cache
+E:\Careerth_boost\Github\ALGORITHM_boosting\ALGORITHM_Boost_001\ALGORITHM_Boost_001\obj\Debug\net6.0\ref\ALGORITHM_Boost_001.dll

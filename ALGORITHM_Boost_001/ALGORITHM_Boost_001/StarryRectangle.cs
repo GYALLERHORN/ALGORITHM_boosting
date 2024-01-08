@@ -1,7 +1,7 @@
 ﻿using System;
 public class StarryRectangle
 {
-    public static void Main()
+    public void solution()
     {
         string[] s;
 
