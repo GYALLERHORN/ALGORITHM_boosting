@@ -7,12 +7,7 @@ using System.Threading.Tasks;
 
 public class LongJump
 {
-    static void Main()
-    {
-        Console.WriteLine(solution(2000));
-    }
-
-    public static long solution(int n)
+    public long solution(int n)
     {
         long answer = 0;
 
